@@ -5,7 +5,6 @@ This repository contains the latest version of my resume, showcasing my professi
 ## 📂 Repository Structure
 
 - **pdf/**: PDF version of my resume
-- **markdown/**: Editable Markdown version
 
 ## 📬 Contact
 
