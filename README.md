@@ -10,8 +10,8 @@ This repository contains the latest version of my resume, showcasing my professi
 
 Feel free to reach out for opportunities or collaborations:
 
-- **Email**: [your.email@example.com](mailto:iamkd30@gmail.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/kushagra30)
+- **Email**: [iamkd30@gmail.com](mailto:iamkd30@gmail.com)
+- **LinkedIn**: [linkedin.com/in/kushagra30](https://linkedin.com/in/kushagra30)
 
 ---
 
